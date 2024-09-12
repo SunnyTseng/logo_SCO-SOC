@@ -10,5 +10,5 @@ Visual design for the SCO-SOC conference. The logo will be used on websites, pro
 
 ## Schedule
 - Sep.12: Online discussion with organizing committee
-- Oct.5: Draft design for the logo for committee meeting
+- Oct.8: Draft design for the logo for committee meeting
 
