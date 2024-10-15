@@ -10,6 +10,13 @@ Visual design for the SCO-SOC conference. The logo will be used on websites, pro
 
 ## Product
 
+#### version 2 (2024 Oct.14)
+Note: Full colour version, suitable for website and other digital use. Also for merchandise that doesn't limit in the use of colour (e.g., stickers).
+
+Download here: [PNG](./product/SCO_SOC_logo_v2.png), [SVG](./product/SCO_SOC_logo_v2.svg)
+
+![](./product/SCO_SOC_logo_v2.png)
+
 #### version 1 (2024 Oct.3)
 
 Text outside          |  Text inside
